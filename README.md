@@ -8,13 +8,19 @@ Install the dependencies:
 
 > `npm i`
 
+or
+
 > `npm install`
+
+or
 
 > `yarn`
 
 Start the development server:
 
 > `npm start`
+
+or
 
 > `yarn start`
 
